@@ -1,8 +1,6 @@
 'reach 0.1';
 'use strict';
 
-import { count } from "console";
-
 export const main = Reach.App(() => {
   // Seller - saleable account from museum
   const A = Participant('Creator', {

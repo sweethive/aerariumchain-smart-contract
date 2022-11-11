@@ -7,4 +7,4 @@ Smart contract is wriiten in Reach - https://docs.reach.sh/tut/overview/
 3. User comes from marketplace to buy NFT micro with specific count (default is 1).
 4. User request to buy NFT micro in exchange with USDC.
 5. Swap of NFT micro and USDC executed by smart contract
-6. Once above execution finished delete the smart contract from blockchain
+6. Once above execution finished we are deleting the smart contract from blockchain
